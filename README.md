@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![output](https://user-images.githubusercontent.com/118707073/241152358-6f345e0a-64fe-49a1-9c5e-de21413bfca3.png)
+![output](https://user-images.githubusercontent.com/118707073/241152373-fe588e75-821f-4ca1-b01d-77f97f6c5ede.png)
+![output](https://user-images.githubusercontent.com/118707073/241152384-ee8511ec-3d61-42b6-b814-f2552a9c15d0.png)
 
-### Name:
-### Register Number:
+### Name: ARUN KUMAR SUKDEV CHAVAN
+### Register Number:  212222230013
 
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+Thus the simulation on the Postprocessing in additive manufacturing is completed.
